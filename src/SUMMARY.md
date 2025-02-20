@@ -11,6 +11,7 @@
 # Rofi
 
 - [Rofi Temaları](./rofi_temalari.md)
+- [Rofi Uygulamaları](./rofi_uygulamalari.md)
 
 # VSCodium
 
